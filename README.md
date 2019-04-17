@@ -1,2 +1,3 @@
 # robot-plotter
-QEA Robots Module Challenge 1
+By Dieter Brehm  
+QEA Robots Module Challenge - The Bridge of Doom.
